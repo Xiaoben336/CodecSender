@@ -25,6 +25,7 @@ import java.io.IOException;
 import java.net.DatagramSocket;
 import java.net.InetAddress;
 
+//zjf test
 public class MainActivity extends AppCompatActivity implements SurfaceHolder.Callback, Camera.PreviewCallback {
     private static final String TAG = "MainActivity";
     DatagramSocket socket;
